@@ -1,0 +1,9 @@
+{
+  "nodeModulesDir": "auto",
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "@lino/raylib": "jsr:@lino/raylib@^0.1.0"
+  }
+}
